@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/02 22:47:18.000.017,=C:\Users\operador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/29 18:49:42.000.018,=C:\Users\operador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/12 19:17:56.000.318,=C:\Users\operador\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/08/12 19:18:30.000.124,=C:\Users\operador\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/08/12 19:19:15.000.476,=C:\Users\operador\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/08/19 20:03:43.000.160,=C:\Users\operador\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/08/26 20:05:13.904,=C:\Users\operador\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/08/26 20:06:26.900,C:\Users\operador\Documents\Ex1Aula5\Ex1Aula5.pas=C:\Users\operador\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/08/26 20:06:26.900,C:\Users\operador\Documents\Ex1Aula5\Ex1Aula5.dfm=C:\Users\operador\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021/08/26 20:07:09.609,C:\Users\operador\Documents\Projeto1Aula5\Projeto1Aula5.dproj=C:\Users\operador\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
